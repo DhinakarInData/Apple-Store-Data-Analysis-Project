@@ -1,5 +1,5 @@
 
-# Apple Store Data Analysis
+# Apple Store Data Analysis SQL Project
 
 Unlock insights to empower app development decisions.
 
