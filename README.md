@@ -29,6 +29,9 @@ Explore the influence of language support on user satisfaction.
 Identify genres with room for improvement.
 Examine the correlation between description length and ratings.
 Discover top-rated apps within each genre.
-Recommendations
+## Technologies Used
+
+- SQL
+**Recommendations**
 
 Access actionable insights to guide app development strategies.
